@@ -1,0 +1,476 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4D58EFFF1DC0AA310026ECE6 /* UIImageView+AnimationImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D58EFFE1DC0AA310026ECE6 /* UIImageView+AnimationImage.m */; };
+		4D58F0221DC0AB2A0026ECE6 /* boat0.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0011DC0AB2A0026ECE6 /* boat0.png */; };
+		4D58F0231DC0AB2A0026ECE6 /* boat1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0021DC0AB2A0026ECE6 /* boat1.png */; };
+		4D58F0241DC0AB2A0026ECE6 /* boat10.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0031DC0AB2A0026ECE6 /* boat10.png */; };
+		4D58F0251DC0AB2A0026ECE6 /* boat11.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0041DC0AB2A0026ECE6 /* boat11.png */; };
+		4D58F0261DC0AB2A0026ECE6 /* boat12.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0051DC0AB2A0026ECE6 /* boat12.png */; };
+		4D58F0271DC0AB2A0026ECE6 /* boat13.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0061DC0AB2A0026ECE6 /* boat13.png */; };
+		4D58F0281DC0AB2A0026ECE6 /* boat14.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0071DC0AB2A0026ECE6 /* boat14.png */; };
+		4D58F0291DC0AB2A0026ECE6 /* boat15.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0081DC0AB2A0026ECE6 /* boat15.png */; };
+		4D58F02A1DC0AB2A0026ECE6 /* boat16.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0091DC0AB2A0026ECE6 /* boat16.png */; };
+		4D58F02B1DC0AB2A0026ECE6 /* boat17.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F00A1DC0AB2A0026ECE6 /* boat17.png */; };
+		4D58F02C1DC0AB2A0026ECE6 /* boat18.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F00B1DC0AB2A0026ECE6 /* boat18.png */; };
+		4D58F02D1DC0AB2A0026ECE6 /* boat19.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F00C1DC0AB2A0026ECE6 /* boat19.png */; };
+		4D58F02E1DC0AB2A0026ECE6 /* boat2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F00D1DC0AB2A0026ECE6 /* boat2.png */; };
+		4D58F02F1DC0AB2A0026ECE6 /* boat20.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F00E1DC0AB2A0026ECE6 /* boat20.png */; };
+		4D58F0301DC0AB2A0026ECE6 /* boat21.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F00F1DC0AB2A0026ECE6 /* boat21.png */; };
+		4D58F0311DC0AB2A0026ECE6 /* boat22.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0101DC0AB2A0026ECE6 /* boat22.png */; };
+		4D58F0321DC0AB2A0026ECE6 /* boat23.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0111DC0AB2A0026ECE6 /* boat23.png */; };
+		4D58F0331DC0AB2A0026ECE6 /* boat24.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0121DC0AB2A0026ECE6 /* boat24.png */; };
+		4D58F0341DC0AB2A0026ECE6 /* boat25.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0131DC0AB2A0026ECE6 /* boat25.png */; };
+		4D58F0351DC0AB2A0026ECE6 /* boat26.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0141DC0AB2A0026ECE6 /* boat26.png */; };
+		4D58F0361DC0AB2A0026ECE6 /* boat27.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0151DC0AB2A0026ECE6 /* boat27.png */; };
+		4D58F0371DC0AB2A0026ECE6 /* boat28.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0161DC0AB2A0026ECE6 /* boat28.png */; };
+		4D58F0381DC0AB2A0026ECE6 /* boat29.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0171DC0AB2A0026ECE6 /* boat29.png */; };
+		4D58F0391DC0AB2A0026ECE6 /* boat3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0181DC0AB2A0026ECE6 /* boat3.png */; };
+		4D58F03A1DC0AB2A0026ECE6 /* boat30.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0191DC0AB2A0026ECE6 /* boat30.png */; };
+		4D58F03B1DC0AB2A0026ECE6 /* boat31.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F01A1DC0AB2A0026ECE6 /* boat31.png */; };
+		4D58F03C1DC0AB2A0026ECE6 /* boat32.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F01B1DC0AB2A0026ECE6 /* boat32.png */; };
+		4D58F03D1DC0AB2A0026ECE6 /* boat4.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F01C1DC0AB2A0026ECE6 /* boat4.png */; };
+		4D58F03E1DC0AB2A0026ECE6 /* boat5.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F01D1DC0AB2A0026ECE6 /* boat5.png */; };
+		4D58F03F1DC0AB2A0026ECE6 /* boat6.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F01E1DC0AB2A0026ECE6 /* boat6.png */; };
+		4D58F0401DC0AB2A0026ECE6 /* boat7.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F01F1DC0AB2A0026ECE6 /* boat7.png */; };
+		4D58F0411DC0AB2A0026ECE6 /* boat8.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0201DC0AB2A0026ECE6 /* boat8.png */; };
+		4D58F0421DC0AB2A0026ECE6 /* boat9.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D58F0211DC0AB2A0026ECE6 /* boat9.png */; };
+		4D9B79C51DC0A836002047F5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D9B79C41DC0A836002047F5 /* main.m */; };
+		4D9B79C81DC0A836002047F5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D9B79C71DC0A836002047F5 /* AppDelegate.m */; };
+		4D9B79CB1DC0A836002047F5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D9B79CA1DC0A836002047F5 /* ViewController.m */; };
+		4D9B79CE1DC0A836002047F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D9B79CC1DC0A836002047F5 /* Main.storyboard */; };
+		4D9B79D01DC0A836002047F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D9B79CF1DC0A836002047F5 /* Assets.xcassets */; };
+		4D9B79D31DC0A836002047F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D9B79D11DC0A836002047F5 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4D58EFFD1DC0AA310026ECE6 /* UIImageView+AnimationImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+AnimationImage.h"; sourceTree = "<group>"; };
+		4D58EFFE1DC0AA310026ECE6 /* UIImageView+AnimationImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+AnimationImage.m"; sourceTree = "<group>"; };
+		4D58F0011DC0AB2A0026ECE6 /* boat0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat0.png; sourceTree = "<group>"; };
+		4D58F0021DC0AB2A0026ECE6 /* boat1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat1.png; sourceTree = "<group>"; };
+		4D58F0031DC0AB2A0026ECE6 /* boat10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat10.png; sourceTree = "<group>"; };
+		4D58F0041DC0AB2A0026ECE6 /* boat11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat11.png; sourceTree = "<group>"; };
+		4D58F0051DC0AB2A0026ECE6 /* boat12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat12.png; sourceTree = "<group>"; };
+		4D58F0061DC0AB2A0026ECE6 /* boat13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat13.png; sourceTree = "<group>"; };
+		4D58F0071DC0AB2A0026ECE6 /* boat14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat14.png; sourceTree = "<group>"; };
+		4D58F0081DC0AB2A0026ECE6 /* boat15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat15.png; sourceTree = "<group>"; };
+		4D58F0091DC0AB2A0026ECE6 /* boat16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat16.png; sourceTree = "<group>"; };
+		4D58F00A1DC0AB2A0026ECE6 /* boat17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat17.png; sourceTree = "<group>"; };
+		4D58F00B1DC0AB2A0026ECE6 /* boat18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat18.png; sourceTree = "<group>"; };
+		4D58F00C1DC0AB2A0026ECE6 /* boat19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat19.png; sourceTree = "<group>"; };
+		4D58F00D1DC0AB2A0026ECE6 /* boat2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat2.png; sourceTree = "<group>"; };
+		4D58F00E1DC0AB2A0026ECE6 /* boat20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat20.png; sourceTree = "<group>"; };
+		4D58F00F1DC0AB2A0026ECE6 /* boat21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat21.png; sourceTree = "<group>"; };
+		4D58F0101DC0AB2A0026ECE6 /* boat22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat22.png; sourceTree = "<group>"; };
+		4D58F0111DC0AB2A0026ECE6 /* boat23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat23.png; sourceTree = "<group>"; };
+		4D58F0121DC0AB2A0026ECE6 /* boat24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat24.png; sourceTree = "<group>"; };
+		4D58F0131DC0AB2A0026ECE6 /* boat25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat25.png; sourceTree = "<group>"; };
+		4D58F0141DC0AB2A0026ECE6 /* boat26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat26.png; sourceTree = "<group>"; };
+		4D58F0151DC0AB2A0026ECE6 /* boat27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat27.png; sourceTree = "<group>"; };
+		4D58F0161DC0AB2A0026ECE6 /* boat28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat28.png; sourceTree = "<group>"; };
+		4D58F0171DC0AB2A0026ECE6 /* boat29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat29.png; sourceTree = "<group>"; };
+		4D58F0181DC0AB2A0026ECE6 /* boat3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat3.png; sourceTree = "<group>"; };
+		4D58F0191DC0AB2A0026ECE6 /* boat30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat30.png; sourceTree = "<group>"; };
+		4D58F01A1DC0AB2A0026ECE6 /* boat31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat31.png; sourceTree = "<group>"; };
+		4D58F01B1DC0AB2A0026ECE6 /* boat32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat32.png; sourceTree = "<group>"; };
+		4D58F01C1DC0AB2A0026ECE6 /* boat4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat4.png; sourceTree = "<group>"; };
+		4D58F01D1DC0AB2A0026ECE6 /* boat5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat5.png; sourceTree = "<group>"; };
+		4D58F01E1DC0AB2A0026ECE6 /* boat6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat6.png; sourceTree = "<group>"; };
+		4D58F01F1DC0AB2A0026ECE6 /* boat7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat7.png; sourceTree = "<group>"; };
+		4D58F0201DC0AB2A0026ECE6 /* boat8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat8.png; sourceTree = "<group>"; };
+		4D58F0211DC0AB2A0026ECE6 /* boat9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat9.png; sourceTree = "<group>"; };
+		4D9B79C01DC0A836002047F5 /* AnimationImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D9B79C41DC0A836002047F5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4D9B79C61DC0A836002047F5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4D9B79C71DC0A836002047F5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4D9B79C91DC0A836002047F5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4D9B79CA1DC0A836002047F5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4D9B79CD1DC0A836002047F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4D9B79CF1DC0A836002047F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4D9B79D21DC0A836002047F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4D9B79D41DC0A836002047F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4D9B79BD1DC0A836002047F5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4D58EFFC1DC0AA310026ECE6 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4D58EFFD1DC0AA310026ECE6 /* UIImageView+AnimationImage.h */,
+				4D58EFFE1DC0AA310026ECE6 /* UIImageView+AnimationImage.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		4D58F0001DC0AB2A0026ECE6 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				4D58F0011DC0AB2A0026ECE6 /* boat0.png */,
+				4D58F0021DC0AB2A0026ECE6 /* boat1.png */,
+				4D58F0031DC0AB2A0026ECE6 /* boat10.png */,
+				4D58F0041DC0AB2A0026ECE6 /* boat11.png */,
+				4D58F0051DC0AB2A0026ECE6 /* boat12.png */,
+				4D58F0061DC0AB2A0026ECE6 /* boat13.png */,
+				4D58F0071DC0AB2A0026ECE6 /* boat14.png */,
+				4D58F0081DC0AB2A0026ECE6 /* boat15.png */,
+				4D58F0091DC0AB2A0026ECE6 /* boat16.png */,
+				4D58F00A1DC0AB2A0026ECE6 /* boat17.png */,
+				4D58F00B1DC0AB2A0026ECE6 /* boat18.png */,
+				4D58F00C1DC0AB2A0026ECE6 /* boat19.png */,
+				4D58F00D1DC0AB2A0026ECE6 /* boat2.png */,
+				4D58F00E1DC0AB2A0026ECE6 /* boat20.png */,
+				4D58F00F1DC0AB2A0026ECE6 /* boat21.png */,
+				4D58F0101DC0AB2A0026ECE6 /* boat22.png */,
+				4D58F0111DC0AB2A0026ECE6 /* boat23.png */,
+				4D58F0121DC0AB2A0026ECE6 /* boat24.png */,
+				4D58F0131DC0AB2A0026ECE6 /* boat25.png */,
+				4D58F0141DC0AB2A0026ECE6 /* boat26.png */,
+				4D58F0151DC0AB2A0026ECE6 /* boat27.png */,
+				4D58F0161DC0AB2A0026ECE6 /* boat28.png */,
+				4D58F0171DC0AB2A0026ECE6 /* boat29.png */,
+				4D58F0181DC0AB2A0026ECE6 /* boat3.png */,
+				4D58F0191DC0AB2A0026ECE6 /* boat30.png */,
+				4D58F01A1DC0AB2A0026ECE6 /* boat31.png */,
+				4D58F01B1DC0AB2A0026ECE6 /* boat32.png */,
+				4D58F01C1DC0AB2A0026ECE6 /* boat4.png */,
+				4D58F01D1DC0AB2A0026ECE6 /* boat5.png */,
+				4D58F01E1DC0AB2A0026ECE6 /* boat6.png */,
+				4D58F01F1DC0AB2A0026ECE6 /* boat7.png */,
+				4D58F0201DC0AB2A0026ECE6 /* boat8.png */,
+				4D58F0211DC0AB2A0026ECE6 /* boat9.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		4D9B79B71DC0A836002047F5 = {
+			isa = PBXGroup;
+			children = (
+				4D58F0001DC0AB2A0026ECE6 /* Images */,
+				4D58EFFC1DC0AA310026ECE6 /* Classes */,
+				4D9B79C21DC0A836002047F5 /* AnimationImage */,
+				4D9B79C11DC0A836002047F5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4D9B79C11DC0A836002047F5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4D9B79C01DC0A836002047F5 /* AnimationImage.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4D9B79C21DC0A836002047F5 /* AnimationImage */ = {
+			isa = PBXGroup;
+			children = (
+				4D9B79C61DC0A836002047F5 /* AppDelegate.h */,
+				4D9B79C71DC0A836002047F5 /* AppDelegate.m */,
+				4D9B79C91DC0A836002047F5 /* ViewController.h */,
+				4D9B79CA1DC0A836002047F5 /* ViewController.m */,
+				4D9B79CC1DC0A836002047F5 /* Main.storyboard */,
+				4D9B79CF1DC0A836002047F5 /* Assets.xcassets */,
+				4D9B79D11DC0A836002047F5 /* LaunchScreen.storyboard */,
+				4D9B79D41DC0A836002047F5 /* Info.plist */,
+				4D9B79C31DC0A836002047F5 /* Supporting Files */,
+			);
+			path = AnimationImage;
+			sourceTree = "<group>";
+		};
+		4D9B79C31DC0A836002047F5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4D9B79C41DC0A836002047F5 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4D9B79BF1DC0A836002047F5 /* AnimationImage */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4D9B79D71DC0A836002047F5 /* Build configuration list for PBXNativeTarget "AnimationImage" */;
+			buildPhases = (
+				4D9B79BC1DC0A836002047F5 /* Sources */,
+				4D9B79BD1DC0A836002047F5 /* Frameworks */,
+				4D9B79BE1DC0A836002047F5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AnimationImage;
+			productName = AnimationImage;
+			productReference = 4D9B79C01DC0A836002047F5 /* AnimationImage.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4D9B79B81DC0A836002047F5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Raymond~";
+				TargetAttributes = {
+					4D9B79BF1DC0A836002047F5 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 2Z2E495V69;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 4D9B79BB1DC0A836002047F5 /* Build configuration list for PBXProject "AnimationImage" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4D9B79B71DC0A836002047F5;
+			productRefGroup = 4D9B79C11DC0A836002047F5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4D9B79BF1DC0A836002047F5 /* AnimationImage */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4D9B79BE1DC0A836002047F5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D58F0321DC0AB2A0026ECE6 /* boat23.png in Resources */,
+				4D58F0411DC0AB2A0026ECE6 /* boat8.png in Resources */,
+				4D58F0331DC0AB2A0026ECE6 /* boat24.png in Resources */,
+				4D58F0341DC0AB2A0026ECE6 /* boat25.png in Resources */,
+				4D58F0291DC0AB2A0026ECE6 /* boat15.png in Resources */,
+				4D58F0361DC0AB2A0026ECE6 /* boat27.png in Resources */,
+				4D58F0371DC0AB2A0026ECE6 /* boat28.png in Resources */,
+				4D58F0281DC0AB2A0026ECE6 /* boat14.png in Resources */,
+				4D58F02C1DC0AB2A0026ECE6 /* boat18.png in Resources */,
+				4D58F0381DC0AB2A0026ECE6 /* boat29.png in Resources */,
+				4D58F02B1DC0AB2A0026ECE6 /* boat17.png in Resources */,
+				4D58F0421DC0AB2A0026ECE6 /* boat9.png in Resources */,
+				4D58F03C1DC0AB2A0026ECE6 /* boat32.png in Resources */,
+				4D58F0301DC0AB2A0026ECE6 /* boat21.png in Resources */,
+				4D58F0391DC0AB2A0026ECE6 /* boat3.png in Resources */,
+				4D58F0311DC0AB2A0026ECE6 /* boat22.png in Resources */,
+				4D58F02F1DC0AB2A0026ECE6 /* boat20.png in Resources */,
+				4D58F03A1DC0AB2A0026ECE6 /* boat30.png in Resources */,
+				4D58F02E1DC0AB2A0026ECE6 /* boat2.png in Resources */,
+				4D58F0231DC0AB2A0026ECE6 /* boat1.png in Resources */,
+				4D9B79D31DC0A836002047F5 /* LaunchScreen.storyboard in Resources */,
+				4D58F0251DC0AB2A0026ECE6 /* boat11.png in Resources */,
+				4D9B79D01DC0A836002047F5 /* Assets.xcassets in Resources */,
+				4D58F0221DC0AB2A0026ECE6 /* boat0.png in Resources */,
+				4D58F0351DC0AB2A0026ECE6 /* boat26.png in Resources */,
+				4D58F03F1DC0AB2A0026ECE6 /* boat6.png in Resources */,
+				4D58F03E1DC0AB2A0026ECE6 /* boat5.png in Resources */,
+				4D58F0241DC0AB2A0026ECE6 /* boat10.png in Resources */,
+				4D58F02D1DC0AB2A0026ECE6 /* boat19.png in Resources */,
+				4D58F0261DC0AB2A0026ECE6 /* boat12.png in Resources */,
+				4D58F0271DC0AB2A0026ECE6 /* boat13.png in Resources */,
+				4D58F0401DC0AB2A0026ECE6 /* boat7.png in Resources */,
+				4D58F03B1DC0AB2A0026ECE6 /* boat31.png in Resources */,
+				4D58F03D1DC0AB2A0026ECE6 /* boat4.png in Resources */,
+				4D58F02A1DC0AB2A0026ECE6 /* boat16.png in Resources */,
+				4D9B79CE1DC0A836002047F5 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4D9B79BC1DC0A836002047F5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D9B79CB1DC0A836002047F5 /* ViewController.m in Sources */,
+				4D58EFFF1DC0AA310026ECE6 /* UIImageView+AnimationImage.m in Sources */,
+				4D9B79C81DC0A836002047F5 /* AppDelegate.m in Sources */,
+				4D9B79C51DC0A836002047F5 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4D9B79CC1DC0A836002047F5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4D9B79CD1DC0A836002047F5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4D9B79D11DC0A836002047F5 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4D9B79D21DC0A836002047F5 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4D9B79D51DC0A836002047F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		4D9B79D61DC0A836002047F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4D9B79D81DC0A836002047F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2Z2E495V69;
+				INFOPLIST_FILE = AnimationImage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = fanrr.AnimationImage;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		4D9B79D91DC0A836002047F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2Z2E495V69;
+				INFOPLIST_FILE = AnimationImage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = fanrr.AnimationImage;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4D9B79BB1DC0A836002047F5 /* Build configuration list for PBXProject "AnimationImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D9B79D51DC0A836002047F5 /* Debug */,
+				4D9B79D61DC0A836002047F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4D9B79D71DC0A836002047F5 /* Build configuration list for PBXNativeTarget "AnimationImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D9B79D81DC0A836002047F5 /* Debug */,
+				4D9B79D91DC0A836002047F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4D9B79B81DC0A836002047F5 /* Project object */;
+}
